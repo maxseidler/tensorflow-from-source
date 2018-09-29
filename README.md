@@ -12,6 +12,8 @@ macOS High Sierra (10.13.4)
 macOS High Sierra (10.13.4)
 * `tensorflow-1.9.0-cp36-cp36m-macosx_10_7_x86_64.whl` was build with Python 3.6.6 on
 macOS High Sierra (10.13.6)
+* `tensorflow-1.10.1-cp36-cp36m-macosx_10_7_x86_64.whl` was build with Python 3.6.6 on
+macOS Mojave (10.14)
 
 ## How to install
 
